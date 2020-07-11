@@ -1,19 +1,10 @@
-# self-introduction
+# 自我介绍网站
 
-## Project setup
-```
-npm install
-```
+## 使用技术
+Vue + Element UI
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+##实现效果
+![Image text](https://raw.githubusercontent.com/fubicheng208/img-storage/master/1.png)
+![Image text](https://raw.githubusercontent.com/fubicheng208/img-storage/master/2.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
