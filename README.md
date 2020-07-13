@@ -4,5 +4,5 @@
 Vue + Element UI
 
 ## 实现效果
-![Image text](https://github.com/fubicheng208/img-storage/blob/master/intro.gif？raw=true)
+![image](https://github.com/fubicheng208/img-storage/blob/master/intro.gif)
 
